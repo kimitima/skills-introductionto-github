@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/freggymwangi/0b0f3582-68f9-4b82-8db3-0001ed10c1b2/25758549-49e7-44d1-9d2f-d9db8e72e0b5/_apis/work/boardbadge/1d1f4e04-02b7-4a71-8a2d-a3b333359e48)](https://dev.azure.com/freggymwangi/0b0f3582-68f9-4b82-8db3-0001ed10c1b2/_boards/board/t/25758549-49e7-44d1-9d2f-d9db8e72e0b5/Microsoft.RequirementCategory)
 <header>
 
 <!--
